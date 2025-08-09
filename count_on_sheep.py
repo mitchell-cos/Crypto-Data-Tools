@@ -8,7 +8,7 @@ st.set_page_config(page_title="Count On Sheep", layout="centered")
 st.markdown("""
 <style>
     body, .stApp { background-color: #03444e !important; }
-    .block-container { padding-top: 0.5rem !important; }
+    .block-container { padding-top: 2.5rem !important; } /* Increased top padding for space from deploy bar */
     .stTabs { margin-top: 0.2rem !important; }
     h1 { margin-top: 0.1rem !important; margin-bottom: 0.1rem !important; color: #96c83f !important; }
     h4 { margin-top: 0 !important; margin-bottom: 0.1rem !important; }
