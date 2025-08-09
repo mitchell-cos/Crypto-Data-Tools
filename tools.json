@@ -1,0 +1,10 @@
+{
+    "Debank": {
+        "url": "https://debank.com/",
+        "description": "Allows you to get a complete overview of all transaction activity for a EVM wallet."
+    },
+    "StakeTax": {
+        "url": "https://stake.tax/",
+        "description": "CSV exports mainly for problematic chains (specialises in cosmos chains)."
+    }
+}
